@@ -18,7 +18,22 @@ Responsive Layout: The webpage boasts a responsive design that dynamically adjus
 
 ## Usage
 
+- Here is the link to the portfolio  :
 
+
+
+
+- https://caiman48.github.io/challenge-2/
+
+
+
+
+- Here is the link to where the source code is located in my repository:
+
+
+
+
+- https://github.com/caiman48/challenge-2
 
 
 
