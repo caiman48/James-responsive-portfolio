@@ -36,7 +36,7 @@ Responsive Layout: The webpage boasts a responsive design that dynamically adjus
 - https://github.com/caiman48/challenge-2
 
 
-<img src="/Assets/images.png" alt="alt text" />
+
 
 
 ## Installation
