@@ -37,6 +37,7 @@ Responsive Layout: The webpage boasts a responsive design that dynamically adjus
 
 
 
+![Captura de pantalla 2023-12-06 175504](https://github.com/caiman48/challenge-2/assets/102683872/82ce5dec-1897-41b9-948d-3d863d843917)
 
 
 ## Installation
