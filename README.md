@@ -23,7 +23,7 @@ Responsive Layout: The webpage boasts a responsive design that dynamically adjus
 
 
 
-- https://caiman48.github.io/challenge-2/
+-https://caiman48.github.io/James-responsive-portfolio/
 
 
 
